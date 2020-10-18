@@ -1,4 +1,4 @@
-# naic2020reviewer
+# AI+无线通信方案说明
 
 ## 文件说明
 训练文件：Model_train.py
