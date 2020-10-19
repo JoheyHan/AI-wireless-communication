@@ -1,5 +1,9 @@
 # AI+无线通信方案说明
 
+##工程文件和模型保存在云盘中
+链接：https://pan.baidu.com/s/1cKJkRcrhdKg74YGvurNPCA 
+提取码：l1e6 
+
 ## 文件说明
 训练文件：Model_train.py
 网络搭建：Model_define_tf.py
